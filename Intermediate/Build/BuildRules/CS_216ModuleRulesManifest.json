@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"A:\\Desktop\\Spring_2024_Upload\\CS_216\\Final\\CS_216\\Intermediate\\Source\\CS_216.Build.cs",
+		"A:\\Desktop\\Spring_2024_Upload\\CS_216\\Final\\CS_216\\Intermediate\\Source\\CS_216.Target.cs",
+		"A:\\Desktop\\Spring_2024_Upload\\CS_216\\Final\\CS_216\\Intermediate\\Source\\CS_216Client.Target.cs",
+		"A:\\Desktop\\Spring_2024_Upload\\CS_216\\Final\\CS_216\\Intermediate\\Source\\CS_216Editor.Target.cs",
+		"A:\\Desktop\\Spring_2024_Upload\\CS_216\\Final\\CS_216\\Intermediate\\Source\\CS_216Server.Target.cs"
+	],
+	"EngineVersion": "5.4.1"
+}
